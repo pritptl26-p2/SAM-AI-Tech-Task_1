@@ -1,2 +1,9 @@
 # SAM-AI-Tech-Task_1
-Analyzed customer voting patterns by identifying the top restaurants based on votes and studying restaurant popularity using data visualization techniques.
+📌 Project Overview
+
+This project analyzes restaurant data using Python and Data Analysis techniques. The project focuses on understanding restaurant popularity, cuisine trends, and customer rating patterns through exploratory data analysis.
+
+🎯 Tasks Performed
+ Votes Analysis
+
+Analyzed customer voting patterns and identified the top restaurants based on the number of votes. Created visualizations to compare restaurant popularity and customer engagement.
